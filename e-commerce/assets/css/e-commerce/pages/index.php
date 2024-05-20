@@ -1,0 +1,1 @@
+<?php include('C:\xampp\htdocs\e-commerce\includes\footer.php');?>
